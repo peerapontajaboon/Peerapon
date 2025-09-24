@@ -56,6 +56,7 @@
 
 - ⟪15 Sep 2025⟫ • **Basic Website Development Workshop for Students Chiang Mai Christian School, Chiang Mai
 
+<img  src="[https://s6.ezgif.com/tmp/ezgif-667b77fa2ac84d.webp](https://s6.ezgif.com/tmp/ezgif-618f9dee502bfa.webp)"  alt="Activity" />
 
 ---
 
