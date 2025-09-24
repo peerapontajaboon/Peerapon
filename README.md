@@ -14,12 +14,14 @@
 👨‍🎓 IT Student at Maejo University
 </td>
 <td valign="top">
-### 👋 I'm Peerapon Tajaboon  
-- 👨‍🎓 4th-year IT Student (Information Technology, Maejo University)  
-- 💻 Interested in Back-End Development (Java, Python, Golang, SQL)  
-- 🌐 Basic knowledge of Frontend (HTML, CSS, JavaScript)  
-- 🎯 Goal: Grow as a Backend Developer and build practical, reliable software solutions  
-- 📫 Contact: **peerapontajaboon@gmail.com** 
+     <h3>👋 I'm Peerapon Tajaboon</h3>
+      <ul>
+        <li>👨‍🎓 4th-year IT Student (Information Technology, Maejo University)</li>
+        <li>💻 Interested in Back-End Development (Java, Python, Golang, SQL)</li>
+        <li>🌐 Basic knowledge of Frontend (HTML, CSS, JavaScript)</li>
+        <li>🎯 Goal: Grow as a Backend Developer and build practical, reliable software solutions</li>
+        <li>📫 Contact: <a href="mailto:peerapontajaboon@gmail.com">peerapontajaboon@gmail.com</a></li>
+      </ul>
 </td>
 </tr>
 </table>
