@@ -50,7 +50,7 @@
 - **Maejo University** (2022–2024)  
   Major: Information Technology (Faculty of Science)
   
-- ** San kamphaeng School ** (2019–2021)  
+- **San kamphaeng School** (2019–2021)  
 
 ---
 
