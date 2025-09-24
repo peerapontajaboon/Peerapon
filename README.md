@@ -6,9 +6,9 @@
 </p>
 <table>
 <tr>
-<td  width="280px"  align="center">
-<img  src="https://s2.ezgif.com/tmp/ezgif-29fdec905a1451.webp"  alt="header image" />
-<br><br>
+<td  width="250px"  align="center">
+<img  src="https://s6.ezgif.com/tmp/ezgif-667b77fa2ac84d.webp"  alt="header image" />
+<br>
 <strong>Peerapon Tajaboon</strong><br/>
 💻 BackEnd Developer<br/>
 👨‍🎓 IT Student at Maejo University
@@ -16,12 +16,12 @@
 <td valign="top">
 ### I'm Peerapon Tajaboond
 -**4th-year IT Student**(Information Technology, Maejo University)<br><br>
--💻 Interested in **Back-End Development** (Java, Python, Golang, SQL)<br><br>
--🌐 Basic knowledge of **Frontend** (HTML, CSS, JavaScript)  <br><br>
--🎯 **Goal:** Grow as a Backend Developer and build practical, reliable software solutions<br><br>
+- 💻 Interested in **Back-End Development** (Java, Python, Golang, SQL)<br><br>
+- 🌐 Basic knowledge of **Frontend** (HTML, CSS, JavaScript) <br><br>
+- 🎯 **Goal:** Grow as a Backend Developer and build practical, reliable software solutions<br><br>
 -📫 Contact: **peerapontajaboon@gmail.com**<br><br>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
