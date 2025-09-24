@@ -15,11 +15,11 @@
 </td>
 <td valign="top">
 ### I'm Peerapon Tajaboond
-- 👨‍🎓 **4th-year IT Student**(Information Technology, Maejo University)
-- 💻 **Interested in Back-End Development** (Java, Python, Golang, SQL)
-- 🌐 **Basic knowledge of **Frontend** (HTML, CSS, JavaScript) 
-- 🎯 **Goal: Grow as a Backend Developer and build practical, reliable software solutions**
--📫 **Contact: peerapontajaboon@gmail.com**
+- •👨‍🎓 **4th-year IT Student**(Information Technology, Maejo University)
+- •💻 **Interested in Back-End Development** (Java, Python, Golang, SQL)
+- •🌐 **Basic knowledge of **Frontend** (HTML, CSS, JavaScript) 
+- •🎯 **Goal: Grow as a Backend Developer and build practical, reliable software solutions**
+- •📫 **Contact: peerapontajaboon@gmail.com**
 </td>
 </tr>
 </table>
