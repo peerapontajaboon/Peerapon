@@ -46,9 +46,6 @@
 
 ## 👨‍🎓 Education
 
-  
-
->  **“Great products are built by great people working together.”**
 - **Maejo University** (2022–2024)  
   Major: Information Technology (Faculty of Science)
   
