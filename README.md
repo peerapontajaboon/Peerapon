@@ -46,33 +46,7 @@
 
 ---
 
-  
-
-## 📌 Featured Projects
-
-  
-
-| Project | Tech | Highlights | Links |
-
-| --------------- | ------------------------- | ----------------------------------------- | ----------------------------- |
-
-| **⟪Project A⟫** | React · Node · PostgreSQL | Real-time dashboard handling 100k req/min | [Repo](⟪url⟫) · [Live](⟪url⟫) |
-
-| **⟪Project B⟫** | Python · FastAPI | Deployed on AWS Lambda; 99.9% uptime | [Repo](⟪url⟫) |
-
-| **⟪Project C⟫** | Figma · TypeScript | Design System adopted by 3 teams | [Case Study](⟪url⟫) |
-
-  
-
-_Add 2–4 projects max. Each row should fit on one screen._
-
-  
-
----
-
-  
-
-## ✍🏻 Recent Blog / Talks
+## ✍🏻 Extra-Curriculum Activity
 
   
 
@@ -80,13 +54,8 @@ _Add 2–4 projects max. Each row should fit on one screen._
 
   
 
-- ⟪May 2025⟫ • **Observable-Ready Dashboards** at BangkokJS
+- ⟪15 Sep 2025⟫ • **Basic Website Development Workshop for Students Chiang Mai Christian School, Chiang Mai
 
-- ⟪Apr 2025⟫ • Published _“Scalable Monorepo Patterns”_ on Medium
-
-- ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: _Modern DevOps_
-
-  
 
 ---
 
