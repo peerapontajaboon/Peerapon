@@ -42,9 +42,20 @@
 | Tools     | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)                          | ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white)    |                                                                                     |
 
 </div>
+---
 
+## 👨‍🎓 Education
+
+  
+
+>  **“Great products are built by great people working together.”**
+- **Maejo University** (2022–2024)  
+  Major: Information Technology (Faculty of Science)
+  
+- ** San kamphaeng School ** (2019–2021)  
 
 ---
+
 
 ## ✍🏻 Extra-Curriculum Activity
 
@@ -77,22 +88,6 @@
   
 
 ---
-
-  
-
-## 🤝 Let’s Connect
-
-  
-
->  **“Great products are built by great people working together.”**
-
-  
-
-- 💌 Email: ⟪email@example.com⟫
-
-- 📝 Schedule a coffee chat: ⟪Calendly link⟫
-
-- 🐦 DM me on [X/Twitter](⟪url⟫)
 
   
 
